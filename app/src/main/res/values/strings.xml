@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_page_welcome">Welcome to Organise</string>
+    <string name="full_task_list_redirect">View All Tasks</string>
+    <string name="log_task_redirect">Log New Task</string>
+
+    <string-array name="type_task_array">
+        <item>Cleaning</item>
+        <item>Cooking</item>
+        <item>Television</item>
+        <item>YardWork</item>
+        <item>Planning</item>
+    </string-array>
+</resources>
